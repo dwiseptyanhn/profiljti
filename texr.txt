@@ -1,0 +1,21 @@
+html+css+javascript
+
+membuat web profil tek informatika 
+jurusan informatika  2 program studi  1
+visis misi setiap jurusan 1
+profil kelulusan setiap program studi
+laboratium dengan gambar txs1
+testimoni alumni
+map polindra
+terdapat form memberikan pesan kepada admin >nama lengkap
+					    >alamat email
+					    pesan
+informasi kontak email admin sosial media jurusan ti
+
+logo polindra
+
+ halaman web warna biru muda dan putih dan apsen oren
+
+.buka map
+.cari tempat yang di inginkan
+.sher (copy html)

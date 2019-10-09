@@ -1,0 +1,125 @@
+<style type="text/css">
+		.header{
+			background-color:blue ;
+			width: 10%;
+			height: 230px;	
+			}
+
+			.menu ul{
+				background: white;
+
+			}
+				.menu ul{
+					padding: 0;
+					margin: 0;
+					background: #03a9f4;
+					overflow: hidden;
+					border: 0,5px solid #e7e7e7;
+
+				}
+
+				 .menu ul li{
+					float: left;
+					list-style-type: none;
+					padding: 10px;
+					color: white;
+					font-family: verdana;
+					font-size: 15px;
+					overflow: hidden;
+				}
+				 .menu ul li a{
+					color: white;
+					text-decoration: none;
+
+				}
+				 .menu ul li a:hover{
+					background-color: #f1f1f1;
+					color: grey;
+					padding: 15px 16px;
+				}
+
+				input[type=text]{
+					width: 150px;
+					display: block;
+					margin-bottom:10px;
+					background-color: #FFfDE7;
+				}
+				input[type=text]{
+					width: 120px;
+					display: block;
+					margin-bottom:35px;
+					background-color: #FFfDE7;
+						}
+						/**/
+						
+
+		.content{
+			width: 100%;
+			height: 500px;
+			/*border: px solid black*/;
+		}						
+		#content-kiri{
+			width: 75%;
+			height: 100%;
+			/*border: px solid black*/;
+			float: left;
+		}
+		#content-kanan{
+			width: 20%;
+			height: 100%;
+			/*border: px solid black*/;
+			float: right;
+			}
+		#form-alumni{
+			width: 200px;
+			height: 310px;
+			margin-left: 50px;
+	
+}
+.pembatas{
+
+		width: 20%;
+		height: 99px;
+		background-color:white;
+}
+
+
+.bawah{
+		width: 100%;
+		height: 190px;
+		background-color:white;
+		
+ 
+}
+.samping-kiri{
+	width: 35%;
+	height: 100%;
+	
+	float: left;
+}
+.tengah{
+	width: 29%;
+	height: 100%;
+	
+	float: left;
+}
+.samping-kanan{
+	width:395px;
+		height: 100%;
+	float: left;
+	
+}
+.copy{
+	float: center;
+	width: 29%;
+	height: 100%;
+}
+
+
+	
+		
+		</style>
+
+
+		
+</head>
