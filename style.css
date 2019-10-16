@@ -92,26 +92,34 @@
  
 }
 .samping-kiri{
-	width: 35%;
+	width: 30%;
 	height: 100%;
 	
 	float: left;
 }
 .tengah{
-	width: 29%;
+	width: 25%;
 	height: 100%;
 	
 	float: left;
 }
 .samping-kanan{
-	width:395px;
+	width:15%;
 		height: 100%;
 	float: left;
 	
 }
+
+.ujung{
+	width:30%;
+		height: 100%;
+	float: left; 
+	
+
+}
 .copy{
 	float: center;
-	width: 29%;
+	width: 30%;
 	height: 100%;
 }
 
